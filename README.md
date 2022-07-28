@@ -4,9 +4,9 @@
 ✔️ I like building open-source tools that people can use  
 ✔️ I am currently working on tools that help people to make games  
 ✔️ You can reach me via:  
-&emsp; Email: bayraktarahmetenes@gmail.com  
-&emsp; LinkedIn: https://www.linkedin.com/in/ahmet-enes-bayraktar  
-&emsp; Discord: [aeb-dev#7034](www.discordapp.com/users/385529847201660949)  
-&emsp; Reddit: [u/aeb-dev](https://www.reddit.com/user/aeb-dev)  
-&emsp; Twitter: [@aeb_dev](https://twitter.com/aeb_dev)  
+&emsp; &emsp; Email: bayraktarahmetenes@gmail.com  
+&emsp; &emsp; LinkedIn: https://www.linkedin.com/in/ahmet-enes-bayraktar  
+&emsp; &emsp; Discord: [aeb-dev#7034](www.discordapp.com/users/385529847201660949)  
+&emsp; &emsp; Reddit: [u/aeb-dev](https://www.reddit.com/user/aeb-dev)  
+&emsp; &emsp; Twitter: [@aeb_dev](https://twitter.com/aeb_dev)  
 ✔️ I love gaming  
