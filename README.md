@@ -9,4 +9,5 @@
 &emsp; &emsp; Discord: [aeb-dev#7034](www.discordapp.com/users/385529847201660949)  
 &emsp; &emsp; Reddit: [u/aeb-dev](https://www.reddit.com/user/aeb-dev)  
 &emsp; &emsp; Twitter: [@aeb_dev](https://twitter.com/aeb_dev)  
+&emsp; &emsp; Blog: [aeb-dev.me](https://aeb-dev.me)  
 ✔️ I love gaming  
